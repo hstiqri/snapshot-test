@@ -63,7 +63,6 @@
       <version>4.12</version>
     </dependency>
 
-
     <dependency>
       <groupId>org.junit.platform</groupId>
       <artifactId>junit-platform-launcher</artifactId>
