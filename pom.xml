@@ -14,11 +14,6 @@
     <revision>${major-version}.local-SNAPSHOT</revision>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
-    <!--
-      Make IntelliJ use preferred Code Style.
-      See https://kotlinlang.org/docs/reference/code-style-migration-guide.html
-    -->
     <kotlin.code.style>official</kotlin.code.style>
 
     <kotlin.version>1.7.10</kotlin.version>
